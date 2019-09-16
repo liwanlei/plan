@@ -1,7 +1,7 @@
 # AutoTestPlan 平台
 ##  spring boot开发自动化测试平台,前后端分离
 
-##   war包可以直接部署到Tomcat里面 , 体验服：http://47.104.199.225:3389  登录账号：lileilei  密码：lileilei 暂时注册无效，需要源码的可以联系我购买：QQ&微信：952943386
+##   war包可以直接部署到Tomcat里面 , 体验服：http://47.104.199.225:3389 （暂时停服） 登录账号：lileilei  密码：lileilei 暂时注册无效，需要源码的可以联系我：QQ&微信：952943386
 ##   数据库mysql，链接本地，配置用户名：root  密码：liwnalei 端口3306
 ##   需要redis  本地，6379端口
 ##   部署后接口文档 可以访问 ip+/路径/swagger-ui.html 访问，
